@@ -1,5 +1,7 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
+	url = https://github.com/taxonomicallyinformedannotation/taxonomicallyinformedannotation.r-universe.dev
 	branch = HEAD
+[submodule "tima"]
+	path = tima
+	url = https://github.com/taxonomicallyinformedannotation/tima
