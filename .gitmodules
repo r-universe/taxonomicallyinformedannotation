@@ -2,6 +2,21 @@
 	path = .registry
 	url = https://github.com/taxonomicallyinformedannotation/taxonomicallyinformedannotation.r-universe.dev
 	branch = HEAD
+[submodule "CompoundDb"]
+	path = CompoundDb
+	url = https://github.com/rformassspectrometry/compounddb
+[submodule "MetaboCoreUtils"]
+	path = MetaboCoreUtils
+	url = https://github.com/rformassspectrometry/metabocoreutils
+[submodule "MsBackendMgf"]
+	path = MsBackendMgf
+	url = https://github.com/rformassspectrometry/msbackendmgf
+[submodule "MsBackendMsp"]
+	path = MsBackendMsp
+	url = https://github.com/rformassspectrometry/msbackendmsp
+[submodule "Spectra"]
+	path = Spectra
+	url = https://github.com/rformassspectrometry/spectra
 [submodule "tima"]
 	path = tima
 	url = https://github.com/taxonomicallyinformedannotation/tima
