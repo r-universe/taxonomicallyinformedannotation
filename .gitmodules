@@ -2,6 +2,45 @@
 	path = .registry
 	url = https://github.com/taxonomicallyinformedannotation/taxonomicallyinformedannotation.r-universe.dev
 	branch = HEAD
+[submodule "AnnotationFilter"]
+	path = AnnotationFilter
+	url = https://github.com/Bioconductor/AnnotationFilter
+[submodule "Biobase"]
+	path = Biobase
+	url = https://github.com/Bioconductor/Biobase
+[submodule "BiocGenerics"]
+	path = BiocGenerics
+	url = https://github.com/Bioconductor/BiocGenerics
+[submodule "BiocParallel"]
+	path = BiocParallel
+	url = https://github.com/Bioconductor/BiocParallel
+[submodule "ChemmineR"]
+	path = ChemmineR
+	url = https://github.com/Bioconductor/ChemmineR
+[submodule "IRanges"]
+	path = IRanges
+	url = https://github.com/Bioconductor/IRanges
+[submodule "MetaboCoreUtils"]
+	path = MetaboCoreUtils
+	url = https://github.com/Bioconductor/MetaboCoreUtils
+[submodule "MsBackendMgf"]
+	path = MsBackendMgf
+	url = https://github.com/Bioconductor/MsBackendMgf
+[submodule "MsBackendMsp"]
+	path = MsBackendMsp
+	url = https://github.com/Bioconductor/MsBackendMsp
+[submodule "MsCoreUtils"]
+	path = MsCoreUtils
+	url = https://github.com/Bioconductor/MsCoreUtils
+[submodule "ProtGenerics"]
+	path = ProtGenerics
+	url = https://github.com/Bioconductor/ProtGenerics
+[submodule "S4Vectors"]
+	path = S4Vectors
+	url = https://github.com/Bioconductor/S4Vectors
+[submodule "Spectra"]
+	path = Spectra
+	url = https://github.com/Bioconductor/Spectra
 [submodule "tima"]
 	path = tima
 	url = https://github.com/taxonomicallyinformedannotation/tima
