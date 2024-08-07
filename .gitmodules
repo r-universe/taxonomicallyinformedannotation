@@ -17,6 +17,9 @@
 [submodule "ChemmineR"]
 	path = ChemmineR
 	url = https://github.com/Bioconductor/ChemmineR
+[submodule "GenomicRanges"]
+	path = GenomicRanges
+	url = https://github.com/Bioconductor/GenomicRanges
 [submodule "IRanges"]
 	path = IRanges
 	url = https://github.com/Bioconductor/IRanges
