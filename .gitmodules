@@ -44,9 +44,6 @@
 [submodule "Spectra"]
 	path = Spectra
 	url = https://github.com/bioc/Spectra
-[submodule "pingr"]
-	path = pingr
-	url = https://github.com/r-lib/pingr
 [submodule "tima"]
 	path = tima
 	url = https://github.com/taxonomicallyinformedannotation/tima
