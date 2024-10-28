@@ -2,48 +2,6 @@
 	path = .registry
 	url = https://github.com/taxonomicallyinformedannotation/taxonomicallyinformedannotation.r-universe.dev
 	branch = HEAD
-[submodule "AnnotationFilter"]
-	path = AnnotationFilter
-	url = https://github.com/bioc/AnnotationFilter
-[submodule "Biobase"]
-	path = Biobase
-	url = https://github.com/bioc/Biobase
-[submodule "BiocGenerics"]
-	path = BiocGenerics
-	url = https://github.com/bioc/BiocGenerics
-[submodule "BiocParallel"]
-	path = BiocParallel
-	url = https://github.com/bioc/BiocParallel
-[submodule "ChemmineR"]
-	path = ChemmineR
-	url = https://github.com/bioc/ChemmineR
-[submodule "GenomicRanges"]
-	path = GenomicRanges
-	url = https://github.com/bioc/GenomicRanges
-[submodule "IRanges"]
-	path = IRanges
-	url = https://github.com/bioc/IRanges
-[submodule "MetaboCoreUtils"]
-	path = MetaboCoreUtils
-	url = https://github.com/bioc/MetaboCoreUtils
-[submodule "MsBackendMgf"]
-	path = MsBackendMgf
-	url = https://github.com/bioc/MsBackendMgf
-[submodule "MsBackendMsp"]
-	path = MsBackendMsp
-	url = https://github.com/bioc/MsBackendMsp
-[submodule "MsCoreUtils"]
-	path = MsCoreUtils
-	url = https://github.com/bioc/MsCoreUtils
-[submodule "ProtGenerics"]
-	path = ProtGenerics
-	url = https://github.com/bioc/ProtGenerics
-[submodule "S4Vectors"]
-	path = S4Vectors
-	url = https://github.com/bioc/S4Vectors
-[submodule "Spectra"]
-	path = Spectra
-	url = https://github.com/bioc/Spectra
 [submodule "tima"]
 	path = tima
 	url = https://github.com/taxonomicallyinformedannotation/tima
