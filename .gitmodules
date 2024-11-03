@@ -2,6 +2,22 @@
 	path = .registry
 	url = https://github.com/taxonomicallyinformedannotation/taxonomicallyinformedannotation.r-universe.dev
 	branch = HEAD
+[submodule "MetaboCoreUtils"]
+	path = MetaboCoreUtils
+	url = https://github.com/bioc/MetaboCoreUtils
+	registered = false
+[submodule "MsBackendMgf"]
+	path = MsBackendMgf
+	url = https://github.com/bioc/MsBackendMgf
+	registered = false
+[submodule "MsBackendMsp"]
+	path = MsBackendMsp
+	url = https://github.com/bioc/MsBackendMsp
+	registered = false
+[submodule "Spectra"]
+	path = Spectra
+	url = https://github.com/bioc/Spectra
+	registered = false
 [submodule "tima"]
 	path = tima
 	url = https://github.com/taxonomicallyinformedannotation/tima
