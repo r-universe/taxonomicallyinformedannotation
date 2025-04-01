@@ -2,6 +2,10 @@
 	path = .registry
 	url = https://github.com/taxonomicallyinformedannotation/taxonomicallyinformedannotation.r-universe.dev
 	branch = HEAD
+[submodule "targets"]
+	path = targets
+	url = https://github.com/ropensci/targets
+	registered = false
 [submodule "tima"]
 	path = tima
 	url = https://github.com/taxonomicallyinformedannotation/tima

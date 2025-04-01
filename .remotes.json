@@ -1,0 +1,8 @@
+[
+  {
+    "package": "targets",
+    "url": "https://github.com/ropensci/targets",
+    "via": ["tima"],
+    "from": "tima"
+  }
+]
